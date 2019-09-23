@@ -33,7 +33,7 @@ Your work will be evaluated against the following criteria:
 ### How to run the program
 
 1. Input needs to be passed in a file in following format. The file name needs to passed in input args when running the program.
-	A sample file is present in src/main/resources folder with name "Success_PartialOverlap.txt"
+	A sample file is present in src/main/resources folder with name "Success_PartialOverlap.txt" <br/>
 		94084,94087 <br/>
 		94080,94085 <br/>
 		94000,94001 <br/>
