@@ -34,7 +34,13 @@ Your work will be evaluated against the following criteria:
 
 1. Input needs to be passed in a file in following format. The file name needs to passed in input args when running the program.
 	A sample file is present in src/main/resources folder with name "Success_PartialOverlap.txt"
-		94084,94087 . 94080,94085 . 94000,94001 . 10001,10009 . 10005,10009 . 10000,10001 . 10010,10099
+		94084,94087 <br/>
+		94080,94085 <br/>
+		94000,94001 <br/>
+		10001,10009 <br/>
+		10005,10009 <br/>
+		10000,10001 <br/>
+		10010,10099 <br/>
 		
 ### Assumptions
 
